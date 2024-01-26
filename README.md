@@ -4,7 +4,7 @@
 
 <h2>Building a SOC + Honeynet in Azure (Live Traffic)</h2>
 
-![Cloud Honeynet / SOC] https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project/blob/main/Screenshot%202024-01-26%20155213.png
+![Cloud Honeynet / SOC] Screenshot 2024-01-26 155213.png
 
 ## Introduction
 
