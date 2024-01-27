@@ -38,7 +38,7 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 
 ## Attack Maps Before Hardening / Security Controls
 <img width="923" alt="Screenshot 2024-01-13 232938" src="https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project/assets/114637978/d2143d34-0f85-417b-bdd1-01b37bdf5c37"><br>
-![Linux Syslog Auth Failures]<br>
+<img width="911" alt="Screenshot 2024-01-13 232830" src="https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project/assets/114637978/33296238-9e66-438b-a3cc-97ab72cc2d39"><br>
 ![Windows RDP/SMB Auth Failures]<br>
 
 ## Metrics Before Hardening / Security Controls
