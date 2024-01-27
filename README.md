@@ -1,4 +1,4 @@
-<h1>Hi, I'm Henok! <br/><a href="https://github.com/hasnake84"></a> <a href="https://www.linkedin.com/in/henok-asnake/">Cybersecurity Professional</a>
+<h1>Hi, I'm Henok! <br/><a href="https://github.com/hasnake84"></a> <a href="https://www.linkedin.com/in/henok-asnake/"></a>
 
 
 
