@@ -37,11 +37,12 @@ For the "BEFORE" metrics, all resources were originally deployed, exposed to the
 For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL traffic with the exception of my admin workstation, and all other resources were protected by their built-in firewalls as well as Private Endpoint
 
 ## Attack Maps Before Hardening / Security Controls
-<img width="923" alt="Screenshot 2024-01-13 232938" src="https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project/assets/114637978/d2143d34-0f85-417b-bdd1-01b37bdf5c37"><br>
-<img width="911" alt="Screenshot 2024-01-13 232830" src="https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project/assets/114637978/33296238-9e66-438b-a3cc-97ab72cc2d39"><br>
-<img width="856" alt="Screenshot 2024-01-13 233307" src="https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project/assets/114637978/ac5f6bb4-7dbd-4b9a-91f4-7586223d4538"><br>
 
-<a href="https://imgur.com/fhjCbVu"><img src="https://i.imgur.com/fhjCbVu.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/kdOK7gI"><img src="https://i.imgur.com/kdOK7gI.png" title="source: imgur.com" /></a><br>
+<a href="https://imgur.com/R6xnqul"><img src="https://i.imgur.com/R6xnqul.png" title="source: imgur.com" /></a><br>
+<a href="https://imgur.com/47O1w5g"><img src="https://i.imgur.com/47O1w5g.png" title="source: imgur.com" /></a><br>
+<a href="https://imgur.com/fhjCbVu"><img src="https://i.imgur.com/fhjCbVu.png" title="source: imgur.com" /></a><br>
+
 
 
 ## Metrics Before Hardening / Security Controls
