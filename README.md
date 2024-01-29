@@ -1,5 +1,5 @@
-<h1>Hi, I'm Henok!</h1> 
-<h2>SOC + Honeynet in Azure (Live Traffic)</h2>
+<h1>Hi, I'm Henok!
+SOC + Honeynet in Azure (Live Traffic)</h1>
 
 ![Diagram drawio](https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project/assets/114637978/4ba63251-9029-41a2-9e8a-08de9bcbeb2e)
 
