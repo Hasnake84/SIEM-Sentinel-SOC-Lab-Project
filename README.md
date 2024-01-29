@@ -40,7 +40,9 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 <img width="923" alt="Screenshot 2024-01-13 232938" src="https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project/assets/114637978/d2143d34-0f85-417b-bdd1-01b37bdf5c37"><br>
 <img width="911" alt="Screenshot 2024-01-13 232830" src="https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project/assets/114637978/33296238-9e66-438b-a3cc-97ab72cc2d39"><br>
 <img width="856" alt="Screenshot 2024-01-13 233307" src="https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project/assets/114637978/ac5f6bb4-7dbd-4b9a-91f4-7586223d4538"><br>
-<img width="773" alt="Screenshot 2024-01-13 232617" src="https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project/assets/114637978/3fe605d4-bdb1-466e-b270-79b7590bd134"><br>
+
+<a href="https://imgur.com/fhjCbVu"><img src="https://i.imgur.com/fhjCbVu.png" title="source: imgur.com" /></a>
+
 
 ## Metrics Before Hardening / Security Controls
 
