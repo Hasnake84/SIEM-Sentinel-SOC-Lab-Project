@@ -1,9 +1,6 @@
-<h1>Hi, I'm Henok!<br>
-SOC + Honeynet in Azure (Live Traffic)</h1>
+# Building a SOC + Honeynet in Azure (Live Traffic)
+<a href="https://imgur.com/KTYSwZJ"><img src="https://i.imgur.com//KTYSwZJ.png" title="source: imgur.com" /></a>
 
-![Diagram drawio](https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project/assets/114637978/4ba63251-9029-41a2-9e8a-08de9bcbeb2e)
-
-<a href="https://imgur.com/kdOK7gI"><img src="https://i.imgur.com/kdOK7gI.png" title="source: imgur.com" /></a>
 ## Introduction
 
 In this project, I build a mini honeynet in Azure and ingest log sources from various resources into a Log Analytics workspace, which is then used by Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. I measured some security metrics in the insecure environment for 24 hours, apply some security controls to harden the environment, measure metrics for another 24 hours, then show the results below. The metrics we will show are:
@@ -37,11 +34,9 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 ## Attack Maps Before Hardening / Security Controls
 
 <a href="https://imgur.com/kdOK7gI"><img src="https://i.imgur.com/kdOK7gI.png" title="source: imgur.com" /></a><br>
-<a href="https://imgur.com/R6xnqul"><img src="https://i.imgur.com/R6xnqul.png" title="source: imgur.com" /></a><br>
-<a href="https://imgur.com/47O1w5g"><img src="https://i.imgur.com/47O1w5g.png" title="source: imgur.com" /></a><br>
-<a href="https://imgur.com/fhjCbVu"><img src="https://i.imgur.com/fhjCbVu.png" title="source: imgur.com" /></a><br>
-
-
+<a href="https://imgur.com/4LAbtdo"><img src="https://i.imgur.com/4LAbtdo.png" title="source: imgur.com" /></a><br>
+<a href="https://imgur.com/nB6Qqih"><img src="https://i.imgur.com/nB6Qqih.png" title="source: imgur.com" /></a><br>
+<a href="https://imgur.com/0rXRTXu"><img src="https://i.imgur.com/0rXRTXu.png" title="source: imgur.com" /></a><br>
 
 ## Metrics Before Hardening / Security Controls
 
