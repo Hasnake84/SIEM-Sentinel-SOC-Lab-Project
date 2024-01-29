@@ -1,11 +1,9 @@
-<h1>Hi, I'm Henok! <br/><a href="https://github.com/hasnake84"></a> <a href="https://www.linkedin.com/in/henok-asnake/"></a>
-
-
-
-<h2>Building a SOC + Honeynet in Azure (Live Traffic)</h2>
+<h1>Hi, I'm Henok!</h1> 
+<h2>SOC + Honeynet in Azure (Live Traffic)</h2>
 
 ![Diagram drawio](https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project/assets/114637978/4ba63251-9029-41a2-9e8a-08de9bcbeb2e)
 
+<a href="https://imgur.com/kdOK7gI"><img src="https://i.imgur.com/kdOK7gI.png" title="source: imgur.com" /></a>
 ## Introduction
 
 In this project, I build a mini honeynet in Azure and ingest log sources from various resources into a Log Analytics workspace, which is then used by Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. I measured some security metrics in the insecure environment for 24 hours, apply some security controls to harden the environment, measure metrics for another 24 hours, then show the results below. The metrics we will show are:
@@ -53,11 +51,11 @@ Stop Time 2023-03-16 17:04:29
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | 19470
-| Syslog                   | 3028
-| SecurityAlert            | 10
-| SecurityIncident         | 348
-| AzureNetworkAnalytics_CL | 843
+| SecurityEvent            | 66139
+| Syslog                   | 5878
+| SecurityAlert            | 21
+| SecurityIncident         | 237
+| AzureNetworkAnalytics_CL | 4755
 
 ## Attack Maps Before Hardening / Security Controls
 
@@ -71,8 +69,8 @@ Stop Time	2023-03-19 15:37
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | 8778
-| Syslog                   | 25
+| SecurityEvent            | 9097
+| Syslog                   | 5
 | SecurityAlert            | 0
 | SecurityIncident         | 0
 | AzureNetworkAnalytics_CL | 0
