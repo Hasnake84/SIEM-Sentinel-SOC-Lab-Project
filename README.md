@@ -31,7 +31,8 @@ For the "BEFORE" metrics, all resources were originally deployed, exposed to the
 
 For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL traffic with the exception of my admin workstation, and all other resources were protected by their built-in firewalls as well as Private Endpoint
 
-<h1>KQL(Kusto Query Languege)</h1>Used on Log Analytics Workbook to query log data from connected sources that are injested.
+<h1>KQL(Kusto Query Languege)</h1>Used on Log Analytics Workbook to query log data from connected sources that are injested.<br>
+Log Tables -  SecurityEvent, Syslog, SecurityAlert, SecurityIncident, AzureNetworkAnalytics_CL 
 <a href="https://imgur.com/dniWa75"><img src="https://i.imgur.com/dniWa75.png" title="source: imgur.com" /></a><br>
 
 ## Attack Maps Before Hardening / Security Controls
